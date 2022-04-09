@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# from https://github.com/Fil-Necati-Linux/necatos-docker
+
+
+date -u > timestamp
